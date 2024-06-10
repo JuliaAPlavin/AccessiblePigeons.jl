@@ -1,0 +1,23 @@
+name = "AccessiblePigeons"
+uuid = "a45b9454-3e88-40a1-8c5f-b58f243590ab"
+authors = ["Alexander Plavin <alexander@plav.in>"]
+version = "0.1.0"
+
+[deps]
+AccessorsExtra = "33016aad-b69d-45be-9359-82a41f556fd4"
+DataManipulation = "38052440-ad76-4236-8414-61389b2c5143"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Pigeons = "0eb8d820-af6a-4919-95ae-11206f830c31"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+AccessorsExtra = "0.1.70"
+DataManipulation = "0.1.16"
+Distributions = "0.25.108"
+Pigeons = "0.4.1"
+Random = "1"
+Reexport = "1.2.2"
+Test = "1"
+julia = "1.10"

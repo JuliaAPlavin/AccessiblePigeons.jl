@@ -1,0 +1,23 @@
+[deps]
+Aqua = "4c88cf16-eb10-579e-8560-4a9242c79595"
+CompatHelperLocal = "5224ae11-6099-4aaa-941d-3aab004bd678"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Enzyme = "7da242da-08ed-463a-9acd-ee780be4f1d9"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+MCMCChains = "c7f686f2-ff18-58e9-bc7b-31028e88f75d"
+StructArrays = "09ab397b-f2b6-538f-b94a-2f83cf4a842a"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+TestItemRunner = "f8b46487-2199-4994-9208-9a1283c18c0a"
+TestItems = "1c621080-faea-4a02-84b6-bbd5e436b8fe"
+
+[compat]
+Aqua = "0.8.7"
+CompatHelperLocal = "0.1.26"
+Distributions = "0.25.108"
+Enzyme = "0.12.2"
+ForwardDiff = "0.10.36"
+MCMCChains = "6.0.6"
+StructArrays = "0.6.18"
+TestItemRunner = "0.2.3"
+TestItems = "0.1.1"
+julia = "1.10"
